@@ -2,7 +2,7 @@
 
 # Info
 
-Si alguna persona corre este proyecto y encuentra el index vacio, se debe a que los partidos se ocultan si 
+Si alguna persona corre este proyecto y encuentra el index 'vacio', se debe a que los partidos se ocultan si 
 la fecha actual sobrepasa las fechas de los partidos hardcodeados en la base de datos. Para solucionar esto, 
 editar el import.sql para poner otras fechas o comentar el EVENT que esta al final del mismo archivo.
 
